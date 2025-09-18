@@ -300,9 +300,9 @@ export function Header() {
                 <p className="text-sm sm:text-base font-sans transition-colors duration-300 leading-tight text-black">
                   MUHS Affiliated
                 </p>
-                <p className="text-sm sm:text-base font-sans transition-colors duration-300 leading-tight text-black">
+{/*                 <p className="text-sm sm:text-base font-sans transition-colors duration-300 leading-tight text-black">
                   CET Code: 06296 | MUHS Code: 165118
-                </p>
+                </p> */}
               </Link>
             </div>
 
